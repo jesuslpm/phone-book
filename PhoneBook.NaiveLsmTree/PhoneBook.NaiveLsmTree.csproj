@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>PhoneBook.NaiveLsmTree</AssemblyName>
+    <RootNamespace>PhoneBook</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBook.Entities\PhoneBook.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

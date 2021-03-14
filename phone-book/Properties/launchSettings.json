@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "phone-book": {
+      "commandName": "Project",
+      "commandLineArgs": "PhoneBook.txt list 0 100"
+    }
+  }
+}
